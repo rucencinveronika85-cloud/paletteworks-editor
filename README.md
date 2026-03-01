@@ -1,4 +1,4 @@
-# PaletteWorks Editor
+Cc# PaletteWorks Editor
 
 > [!IMPORTANT]  
 > ✋ Hi! I am *mkpoli*, the author of **PaletteWorks Editor**. I'm really sorry for not communicating for such a long time — life took over with various responsibilities, including academic work and some health challenges.
